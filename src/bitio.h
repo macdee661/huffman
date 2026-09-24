@@ -10,11 +10,11 @@ struct BitIO {
 };
 
 
-void writer_init(struct BitIO *io);
+void writer_init(struct BitIO *io, FILE *fp);
 void write_bit(int bit, struct BitIO *io);
 void flush(struct BitIO *io);
 
-void reader_init(struct BitIO *io);
+void reader_init(struct BitIO *io, FILE *fp);
 int read_bit(struct BitIO *io);
 
 #endif

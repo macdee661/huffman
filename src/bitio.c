@@ -1,13 +1,15 @@
 #include "bitio.h"
 
-void writer_init(struct BitIO *io){
+void writer_init(struct BitIO *io, FILE *fp){
     io->counter = 0;
     io->pen = 0;
+    io->file = fp;
 }
 
-void reader_init(struct BitIO *io){
+void reader_init(struct BitIO *io, FILE *fp){
     io->counter = 0;
     io->pen = 0;
+    io->file = fp;
 }
 
 void write_bit(int bit, struct BitIO *io){
