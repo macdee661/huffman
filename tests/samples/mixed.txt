@@ -1,0 +1,2 @@
+Huffman coding stores frequent symbols with shorter bit sequences.
+This sample includes spaces, punctuation, numbers 0123456789, and newlines.
