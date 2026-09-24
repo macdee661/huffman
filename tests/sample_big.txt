@@ -1,0 +1,280 @@
+The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog.
+Compression algorithms exploit redundancy in data. When some symbols appear far more often
+than others, we can assign shorter codes to the frequent ones and longer codes to the rare
+ones, coming out ahead on average. This is the core insight behind Huffman coding, which
+builds a binary tree from symbol frequencies and reads each symbol's code off the path from
+the root to its leaf. English text is an ideal candidate because letter frequencies are wildly
+uneven: e, t, a, o, i, n, s, and the space character dominate, while q, z, x, and j are scarce.
+The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog.
+Compression algorithms exploit redundancy in data. When some symbols appear far more often
+than others, we can assign shorter codes to the frequent ones and longer codes to the rare
+ones, coming out ahead on average. This is the core insight behind Huffman coding, which
+builds a binary tree from symbol frequencies and reads each symbol's code off the path from
+the root to its leaf. English text is an ideal candidate because letter frequencies are wildly
+uneven: e, t, a, o, i, n, s, and the space character dominate, while q, z, x, and j are scarce.
+The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog.
+Compression algorithms exploit redundancy in data. When some symbols appear far more often
+than others, we can assign shorter codes to the frequent ones and longer codes to the rare
+ones, coming out ahead on average. This is the core insight behind Huffman coding, which
+builds a binary tree from symbol frequencies and reads each symbol's code off the path from
+the root to its leaf. English text is an ideal candidate because letter frequencies are wildly
+uneven: e, t, a, o, i, n, s, and the space character dominate, while q, z, x, and j are scarce.
+The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog.
+Compression algorithms exploit redundancy in data. When some symbols appear far more often
+than others, we can assign shorter codes to the frequent ones and longer codes to the rare
+ones, coming out ahead on average. This is the core insight behind Huffman coding, which
+builds a binary tree from symbol frequencies and reads each symbol's code off the path from
+the root to its leaf. English text is an ideal candidate because letter frequencies are wildly
+uneven: e, t, a, o, i, n, s, and the space character dominate, while q, z, x, and j are scarce.
+The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog.
+Compression algorithms exploit redundancy in data. When some symbols appear far more often
+than others, we can assign shorter codes to the frequent ones and longer codes to the rare
+ones, coming out ahead on average. This is the core insight behind Huffman coding, which
+builds a binary tree from symbol frequencies and reads each symbol's code off the path from
+the root to its leaf. English text is an ideal candidate because letter frequencies are wildly
+uneven: e, t, a, o, i, n, s, and the space character dominate, while q, z, x, and j are scarce.
+The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog.
+Compression algorithms exploit redundancy in data. When some symbols appear far more often
+than others, we can assign shorter codes to the frequent ones and longer codes to the rare
+ones, coming out ahead on average. This is the core insight behind Huffman coding, which
+builds a binary tree from symbol frequencies and reads each symbol's code off the path from
+the root to its leaf. English text is an ideal candidate because letter frequencies are wildly
+uneven: e, t, a, o, i, n, s, and the space character dominate, while q, z, x, and j are scarce.
+The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog.
+Compression algorithms exploit redundancy in data. When some symbols appear far more often
+than others, we can assign shorter codes to the frequent ones and longer codes to the rare
+ones, coming out ahead on average. This is the core insight behind Huffman coding, which
+builds a binary tree from symbol frequencies and reads each symbol's code off the path from
+the root to its leaf. English text is an ideal candidate because letter frequencies are wildly
+uneven: e, t, a, o, i, n, s, and the space character dominate, while q, z, x, and j are scarce.
+The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog.
+Compression algorithms exploit redundancy in data. When some symbols appear far more often
+than others, we can assign shorter codes to the frequent ones and longer codes to the rare
+ones, coming out ahead on average. This is the core insight behind Huffman coding, which
+builds a binary tree from symbol frequencies and reads each symbol's code off the path from
+the root to its leaf. English text is an ideal candidate because letter frequencies are wildly
+uneven: e, t, a, o, i, n, s, and the space character dominate, while q, z, x, and j are scarce.
+The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog.
+Compression algorithms exploit redundancy in data. When some symbols appear far more often
+than others, we can assign shorter codes to the frequent ones and longer codes to the rare
+ones, coming out ahead on average. This is the core insight behind Huffman coding, which
+builds a binary tree from symbol frequencies and reads each symbol's code off the path from
+the root to its leaf. English text is an ideal candidate because letter frequencies are wildly
+uneven: e, t, a, o, i, n, s, and the space character dominate, while q, z, x, and j are scarce.
+The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog.
+Compression algorithms exploit redundancy in data. When some symbols appear far more often
+than others, we can assign shorter codes to the frequent ones and longer codes to the rare
+ones, coming out ahead on average. This is the core insight behind Huffman coding, which
+builds a binary tree from symbol frequencies and reads each symbol's code off the path from
+the root to its leaf. English text is an ideal candidate because letter frequencies are wildly
+uneven: e, t, a, o, i, n, s, and the space character dominate, while q, z, x, and j are scarce.
+The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog.
+Compression algorithms exploit redundancy in data. When some symbols appear far more often
+than others, we can assign shorter codes to the frequent ones and longer codes to the rare
+ones, coming out ahead on average. This is the core insight behind Huffman coding, which
+builds a binary tree from symbol frequencies and reads each symbol's code off the path from
+the root to its leaf. English text is an ideal candidate because letter frequencies are wildly
+uneven: e, t, a, o, i, n, s, and the space character dominate, while q, z, x, and j are scarce.
+The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog.
+Compression algorithms exploit redundancy in data. When some symbols appear far more often
+than others, we can assign shorter codes to the frequent ones and longer codes to the rare
+ones, coming out ahead on average. This is the core insight behind Huffman coding, which
+builds a binary tree from symbol frequencies and reads each symbol's code off the path from
+the root to its leaf. English text is an ideal candidate because letter frequencies are wildly
+uneven: e, t, a, o, i, n, s, and the space character dominate, while q, z, x, and j are scarce.
+The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog.
+Compression algorithms exploit redundancy in data. When some symbols appear far more often
+than others, we can assign shorter codes to the frequent ones and longer codes to the rare
+ones, coming out ahead on average. This is the core insight behind Huffman coding, which
+builds a binary tree from symbol frequencies and reads each symbol's code off the path from
+the root to its leaf. English text is an ideal candidate because letter frequencies are wildly
+uneven: e, t, a, o, i, n, s, and the space character dominate, while q, z, x, and j are scarce.
+The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog.
+Compression algorithms exploit redundancy in data. When some symbols appear far more often
+than others, we can assign shorter codes to the frequent ones and longer codes to the rare
+ones, coming out ahead on average. This is the core insight behind Huffman coding, which
+builds a binary tree from symbol frequencies and reads each symbol's code off the path from
+the root to its leaf. English text is an ideal candidate because letter frequencies are wildly
+uneven: e, t, a, o, i, n, s, and the space character dominate, while q, z, x, and j are scarce.
+The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog.
+Compression algorithms exploit redundancy in data. When some symbols appear far more often
+than others, we can assign shorter codes to the frequent ones and longer codes to the rare
+ones, coming out ahead on average. This is the core insight behind Huffman coding, which
+builds a binary tree from symbol frequencies and reads each symbol's code off the path from
+the root to its leaf. English text is an ideal candidate because letter frequencies are wildly
+uneven: e, t, a, o, i, n, s, and the space character dominate, while q, z, x, and j are scarce.
+The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog.
+Compression algorithms exploit redundancy in data. When some symbols appear far more often
+than others, we can assign shorter codes to the frequent ones and longer codes to the rare
+ones, coming out ahead on average. This is the core insight behind Huffman coding, which
+builds a binary tree from symbol frequencies and reads each symbol's code off the path from
+the root to its leaf. English text is an ideal candidate because letter frequencies are wildly
+uneven: e, t, a, o, i, n, s, and the space character dominate, while q, z, x, and j are scarce.
+The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog.
+Compression algorithms exploit redundancy in data. When some symbols appear far more often
+than others, we can assign shorter codes to the frequent ones and longer codes to the rare
+ones, coming out ahead on average. This is the core insight behind Huffman coding, which
+builds a binary tree from symbol frequencies and reads each symbol's code off the path from
+the root to its leaf. English text is an ideal candidate because letter frequencies are wildly
+uneven: e, t, a, o, i, n, s, and the space character dominate, while q, z, x, and j are scarce.
+The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog.
+Compression algorithms exploit redundancy in data. When some symbols appear far more often
+than others, we can assign shorter codes to the frequent ones and longer codes to the rare
+ones, coming out ahead on average. This is the core insight behind Huffman coding, which
+builds a binary tree from symbol frequencies and reads each symbol's code off the path from
+the root to its leaf. English text is an ideal candidate because letter frequencies are wildly
+uneven: e, t, a, o, i, n, s, and the space character dominate, while q, z, x, and j are scarce.
+The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog.
+Compression algorithms exploit redundancy in data. When some symbols appear far more often
+than others, we can assign shorter codes to the frequent ones and longer codes to the rare
+ones, coming out ahead on average. This is the core insight behind Huffman coding, which
+builds a binary tree from symbol frequencies and reads each symbol's code off the path from
+the root to its leaf. English text is an ideal candidate because letter frequencies are wildly
+uneven: e, t, a, o, i, n, s, and the space character dominate, while q, z, x, and j are scarce.
+The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog.
+Compression algorithms exploit redundancy in data. When some symbols appear far more often
+than others, we can assign shorter codes to the frequent ones and longer codes to the rare
+ones, coming out ahead on average. This is the core insight behind Huffman coding, which
+builds a binary tree from symbol frequencies and reads each symbol's code off the path from
+the root to its leaf. English text is an ideal candidate because letter frequencies are wildly
+uneven: e, t, a, o, i, n, s, and the space character dominate, while q, z, x, and j are scarce.
+The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog.
+Compression algorithms exploit redundancy in data. When some symbols appear far more often
+than others, we can assign shorter codes to the frequent ones and longer codes to the rare
+ones, coming out ahead on average. This is the core insight behind Huffman coding, which
+builds a binary tree from symbol frequencies and reads each symbol's code off the path from
+the root to its leaf. English text is an ideal candidate because letter frequencies are wildly
+uneven: e, t, a, o, i, n, s, and the space character dominate, while q, z, x, and j are scarce.
+The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog.
+Compression algorithms exploit redundancy in data. When some symbols appear far more often
+than others, we can assign shorter codes to the frequent ones and longer codes to the rare
+ones, coming out ahead on average. This is the core insight behind Huffman coding, which
+builds a binary tree from symbol frequencies and reads each symbol's code off the path from
+the root to its leaf. English text is an ideal candidate because letter frequencies are wildly
+uneven: e, t, a, o, i, n, s, and the space character dominate, while q, z, x, and j are scarce.
+The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog.
+Compression algorithms exploit redundancy in data. When some symbols appear far more often
+than others, we can assign shorter codes to the frequent ones and longer codes to the rare
+ones, coming out ahead on average. This is the core insight behind Huffman coding, which
+builds a binary tree from symbol frequencies and reads each symbol's code off the path from
+the root to its leaf. English text is an ideal candidate because letter frequencies are wildly
+uneven: e, t, a, o, i, n, s, and the space character dominate, while q, z, x, and j are scarce.
+The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog.
+Compression algorithms exploit redundancy in data. When some symbols appear far more often
+than others, we can assign shorter codes to the frequent ones and longer codes to the rare
+ones, coming out ahead on average. This is the core insight behind Huffman coding, which
+builds a binary tree from symbol frequencies and reads each symbol's code off the path from
+the root to its leaf. English text is an ideal candidate because letter frequencies are wildly
+uneven: e, t, a, o, i, n, s, and the space character dominate, while q, z, x, and j are scarce.
+The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog.
+Compression algorithms exploit redundancy in data. When some symbols appear far more often
+than others, we can assign shorter codes to the frequent ones and longer codes to the rare
+ones, coming out ahead on average. This is the core insight behind Huffman coding, which
+builds a binary tree from symbol frequencies and reads each symbol's code off the path from
+the root to its leaf. English text is an ideal candidate because letter frequencies are wildly
+uneven: e, t, a, o, i, n, s, and the space character dominate, while q, z, x, and j are scarce.
+The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog.
+Compression algorithms exploit redundancy in data. When some symbols appear far more often
+than others, we can assign shorter codes to the frequent ones and longer codes to the rare
+ones, coming out ahead on average. This is the core insight behind Huffman coding, which
+builds a binary tree from symbol frequencies and reads each symbol's code off the path from
+the root to its leaf. English text is an ideal candidate because letter frequencies are wildly
+uneven: e, t, a, o, i, n, s, and the space character dominate, while q, z, x, and j are scarce.
+The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog.
+Compression algorithms exploit redundancy in data. When some symbols appear far more often
+than others, we can assign shorter codes to the frequent ones and longer codes to the rare
+ones, coming out ahead on average. This is the core insight behind Huffman coding, which
+builds a binary tree from symbol frequencies and reads each symbol's code off the path from
+the root to its leaf. English text is an ideal candidate because letter frequencies are wildly
+uneven: e, t, a, o, i, n, s, and the space character dominate, while q, z, x, and j are scarce.
+The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog.
+Compression algorithms exploit redundancy in data. When some symbols appear far more often
+than others, we can assign shorter codes to the frequent ones and longer codes to the rare
+ones, coming out ahead on average. This is the core insight behind Huffman coding, which
+builds a binary tree from symbol frequencies and reads each symbol's code off the path from
+the root to its leaf. English text is an ideal candidate because letter frequencies are wildly
+uneven: e, t, a, o, i, n, s, and the space character dominate, while q, z, x, and j are scarce.
+The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog.
+Compression algorithms exploit redundancy in data. When some symbols appear far more often
+than others, we can assign shorter codes to the frequent ones and longer codes to the rare
+ones, coming out ahead on average. This is the core insight behind Huffman coding, which
+builds a binary tree from symbol frequencies and reads each symbol's code off the path from
+the root to its leaf. English text is an ideal candidate because letter frequencies are wildly
+uneven: e, t, a, o, i, n, s, and the space character dominate, while q, z, x, and j are scarce.
+The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog.
+Compression algorithms exploit redundancy in data. When some symbols appear far more often
+than others, we can assign shorter codes to the frequent ones and longer codes to the rare
+ones, coming out ahead on average. This is the core insight behind Huffman coding, which
+builds a binary tree from symbol frequencies and reads each symbol's code off the path from
+the root to its leaf. English text is an ideal candidate because letter frequencies are wildly
+uneven: e, t, a, o, i, n, s, and the space character dominate, while q, z, x, and j are scarce.
+The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog.
+Compression algorithms exploit redundancy in data. When some symbols appear far more often
+than others, we can assign shorter codes to the frequent ones and longer codes to the rare
+ones, coming out ahead on average. This is the core insight behind Huffman coding, which
+builds a binary tree from symbol frequencies and reads each symbol's code off the path from
+the root to its leaf. English text is an ideal candidate because letter frequencies are wildly
+uneven: e, t, a, o, i, n, s, and the space character dominate, while q, z, x, and j are scarce.
+The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog.
+Compression algorithms exploit redundancy in data. When some symbols appear far more often
+than others, we can assign shorter codes to the frequent ones and longer codes to the rare
+ones, coming out ahead on average. This is the core insight behind Huffman coding, which
+builds a binary tree from symbol frequencies and reads each symbol's code off the path from
+the root to its leaf. English text is an ideal candidate because letter frequencies are wildly
+uneven: e, t, a, o, i, n, s, and the space character dominate, while q, z, x, and j are scarce.
+The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog.
+Compression algorithms exploit redundancy in data. When some symbols appear far more often
+than others, we can assign shorter codes to the frequent ones and longer codes to the rare
+ones, coming out ahead on average. This is the core insight behind Huffman coding, which
+builds a binary tree from symbol frequencies and reads each symbol's code off the path from
+the root to its leaf. English text is an ideal candidate because letter frequencies are wildly
+uneven: e, t, a, o, i, n, s, and the space character dominate, while q, z, x, and j are scarce.
+The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog.
+Compression algorithms exploit redundancy in data. When some symbols appear far more often
+than others, we can assign shorter codes to the frequent ones and longer codes to the rare
+ones, coming out ahead on average. This is the core insight behind Huffman coding, which
+builds a binary tree from symbol frequencies and reads each symbol's code off the path from
+the root to its leaf. English text is an ideal candidate because letter frequencies are wildly
+uneven: e, t, a, o, i, n, s, and the space character dominate, while q, z, x, and j are scarce.
+The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog.
+Compression algorithms exploit redundancy in data. When some symbols appear far more often
+than others, we can assign shorter codes to the frequent ones and longer codes to the rare
+ones, coming out ahead on average. This is the core insight behind Huffman coding, which
+builds a binary tree from symbol frequencies and reads each symbol's code off the path from
+the root to its leaf. English text is an ideal candidate because letter frequencies are wildly
+uneven: e, t, a, o, i, n, s, and the space character dominate, while q, z, x, and j are scarce.
+The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog.
+Compression algorithms exploit redundancy in data. When some symbols appear far more often
+than others, we can assign shorter codes to the frequent ones and longer codes to the rare
+ones, coming out ahead on average. This is the core insight behind Huffman coding, which
+builds a binary tree from symbol frequencies and reads each symbol's code off the path from
+the root to its leaf. English text is an ideal candidate because letter frequencies are wildly
+uneven: e, t, a, o, i, n, s, and the space character dominate, while q, z, x, and j are scarce.
+The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog.
+Compression algorithms exploit redundancy in data. When some symbols appear far more often
+than others, we can assign shorter codes to the frequent ones and longer codes to the rare
+ones, coming out ahead on average. This is the core insight behind Huffman coding, which
+builds a binary tree from symbol frequencies and reads each symbol's code off the path from
+the root to its leaf. English text is an ideal candidate because letter frequencies are wildly
+uneven: e, t, a, o, i, n, s, and the space character dominate, while q, z, x, and j are scarce.
+The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog.
+Compression algorithms exploit redundancy in data. When some symbols appear far more often
+than others, we can assign shorter codes to the frequent ones and longer codes to the rare
+ones, coming out ahead on average. This is the core insight behind Huffman coding, which
+builds a binary tree from symbol frequencies and reads each symbol's code off the path from
+the root to its leaf. English text is an ideal candidate because letter frequencies are wildly
+uneven: e, t, a, o, i, n, s, and the space character dominate, while q, z, x, and j are scarce.
+The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog.
+Compression algorithms exploit redundancy in data. When some symbols appear far more often
+than others, we can assign shorter codes to the frequent ones and longer codes to the rare
+ones, coming out ahead on average. This is the core insight behind Huffman coding, which
+builds a binary tree from symbol frequencies and reads each symbol's code off the path from
+the root to its leaf. English text is an ideal candidate because letter frequencies are wildly
+uneven: e, t, a, o, i, n, s, and the space character dominate, while q, z, x, and j are scarce.
+The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog.
+Compression algorithms exploit redundancy in data. When some symbols appear far more often
+than others, we can assign shorter codes to the frequent ones and longer codes to the rare
+ones, coming out ahead on average. This is the core insight behind Huffman coding, which
+builds a binary tree from symbol frequencies and reads each symbol's code off the path from
+the root to its leaf. English text is an ideal candidate because letter frequencies are wildly
+uneven: e, t, a, o, i, n, s, and the space character dominate, while q, z, x, and j are scarce.

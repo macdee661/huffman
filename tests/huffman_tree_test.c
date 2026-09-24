@@ -14,16 +14,6 @@ static int validate_tree(struct Node *node){
     return validate_tree(node->left) + validate_tree(node->right);
 }
 
-static void free_tree(struct Node *node){
-    if(node == NULL){
-        return;
-    }
-
-    free_tree(node->left);
-    free_tree(node->right);
-    free(node);
-}
-
 int main(void){
     int frequencies[256] = {0};
     frequencies['a'] = 3;

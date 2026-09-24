@@ -1,0 +1,6 @@
+huffman.exe
+tests/*.exe
+*.huf
+test.bin
+__pycache__/
+tests/__pycache__/
